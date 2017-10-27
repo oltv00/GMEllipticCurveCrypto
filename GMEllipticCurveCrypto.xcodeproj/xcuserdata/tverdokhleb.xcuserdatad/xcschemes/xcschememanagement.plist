@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GMEllipticCurveCrypto iOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>GMEllipticCurveCrypto macOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>GMEllipticCurveCrypto tvOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>GMEllipticCurveCrypto watchOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>300DB0601F84E1FD0077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB0E51F84FFAC0077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB0F61F85017D0077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB1031F85019C0077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB1101F8501DF0077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB1221F8502400077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB12F1F8502540077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB13C1F8505280077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB1491F8505300077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB1561F85053B0077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>300DB1631F8505460077D963</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>30DC7AE01F850D16003966DF</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>30DC7B011F8523F7003966DF</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>30DC7B121F85263F003966DF</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>30DC7B1F1F852678003966DF</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>30DC7B2C1F852682003966DF</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>6003F589195388D20070C39A</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>6003F5AD195388D20070C39A</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+	</dict>
+</dict>
+</plist>
